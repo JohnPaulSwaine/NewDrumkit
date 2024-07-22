@@ -1,0 +1,28 @@
+.drumkit {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 220px;
+    padding: 10px;
+}
+p, h1{
+    color: aqua;
+}
+body {
+    background-image: url(Drummer\ Hero\ Background.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+}
+
+h1, p {
+    text-align: center; 
+    margin-top: 20%; 
+}
+.image {
+    height: 100px;
+    width: 100px;
+}
